@@ -1,0 +1,4 @@
+name: PlibTest
+version: '${version}'
+main: test.antipopup.plibtest.PlibTest
+api-version: 1.18
